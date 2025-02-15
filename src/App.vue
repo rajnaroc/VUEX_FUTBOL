@@ -9,6 +9,5 @@
 import { Toaster } from 'vue-sonner'
 </script>
 
-<style>
-
+<style lang="scss">
 </style>
